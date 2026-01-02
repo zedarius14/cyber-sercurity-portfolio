@@ -6,12 +6,12 @@ I may not have professional pentesting experience yet, but I am actively learnin
 
 ---
 
-## 🎯 Career Goal
+## Career Goal
 To start my career as a **Junior Penetration Tester / Cybersecurity Analyst**, gain real-world experience, and continue developing strong ethical hacking and security skills.
 
 ---
 
-## 🧠 Current Knowledge & Fundamentals
+## Current Knowledge & Fundamentals
 I currently have beginner to intermediate understanding of:
 
 - Networking Basics (IP addressing, ports, protocols, DNS)
@@ -22,7 +22,7 @@ I currently have beginner to intermediate understanding of:
 
 ---
 
-## 🛠️ Tools I Am Learning / Practicing
+## Tools I Am Learning / Practicing
 **Networking & Security**
 - Nmap (basic scanning)
 - Wireshark
@@ -43,12 +43,12 @@ I currently have beginner to intermediate understanding of:
 
 ---
 
-## 📂 Practice Labs & Learning Projects
+##  Practice Labs & Learning Projects
 These are beginner-friendly practice activities I am working on while learning cybersecurity:
 
-- 🔍 Basic Network Scanning using Nmap
-- 🛡️ Introduction to Web Security Labs (e.g., Juice Shop)
-- 🐧 Linux Security & Permissions Exploration
+-  Basic Network Scanning using Nmap
+-  Introduction to Web Security Labs (e.g., Juice Shop)
+-  Linux Security & Permissions Exploration
 
 
 ## Projects
@@ -65,7 +65,7 @@ These are beginner-friendly practice activities I am working on while learning c
 
 ---
 
-## 📝 Reports & Documentation Practice
+##  Reports & Documentation Practice
 I am also learning how to communicate security findings clearly, which is important for pentesting roles.
 
 Includes:
@@ -75,7 +75,7 @@ Includes:
 
 ---
 
-## 🏆 Learning Progress
+##  Learning Progress
 I practice regularly on cybersecurity learning platforms:
 
 **TryHackMe**
@@ -83,7 +83,7 @@ https://tryhackme.com/p/sweetpotatoZZ
 
 ---
 
-## 🚀 What I Am Currently Working On
+##  What I Am Currently Working On
 - Strengthening networking & Linux knowledge
 - Learning web application security
 - Building practical lab experience
@@ -91,8 +91,7 @@ https://tryhackme.com/p/sweetpotatoZZ
 
 ---
 
-## 🧭 Learning Roadmap
-📌 Roadmap:
+##  Learning Roadmap
 
 Current Focus:
 - Linux
@@ -106,13 +105,13 @@ Next Goals:
 
 ---
 
-## ✅ Ethics Statement
+##  Ethics Statement
 All learning and activities shown in this portfolio are done **legally in controlled lab environments and training platforms only**.  
 I follow ethical hacking principles and do not participate in any unauthorized testing.
 
 ---
 
-## 📬 Contact
+##  Contact
 - 📧 Email: ptc.jericolimbo@gmail.com
 - 🌍 Location: 61 Pres Quirino Ext. South Signal, Taguig NCR
 - 📱 +639677649079
