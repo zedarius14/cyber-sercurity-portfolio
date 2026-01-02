@@ -1,12 +1,12 @@
 # Basic Nmap Network Scanning
 
-## 🎯 Objective
+##  Objective
 
 To practice basic network scanning and understand how attackers identify open ports and services.
 
 ---
 
-## 🛠️ Tools & Environment
+##  Tools & Environment
 - Linux OS running in Raspberr Pi 4
 - RealVNC Viewer (Windows)
 - Nmap
@@ -14,7 +14,7 @@ To practice basic network scanning and understand how attackers identify open po
 
 ---
 
-## 🔍 Steps I Did
+##  Steps I Did
 1️⃣ Identify target  
 2️⃣ Run scan  
 3️⃣ Analyze results  
@@ -22,7 +22,7 @@ To practice basic network scanning and understand how attackers identify open po
 
 ---
 
-## 📷 Evidence / Screenshots
+## Screenshots
 
 ![Nmap Scan Result](images/scan1.png)
 ![Nmap Scan Result](images/scan2.png)
@@ -30,13 +30,13 @@ To practice basic network scanning and understand how attackers identify open po
 
 ---
 
-## 📚 Findings / Results
+##  Findings / Results
 
 - By scanning the host i found my own machine's ipv4 and use it as my target
 - Found open ports 135, 139, 445 and 5357 
 ---
 
-## 🎓 What I Learned / 
+##  What I Learned  
 
 - During my lab activity, I first used nmap -sn to perform host discovery and identify which devices were active on the network.
   This helped me understand how attackers initially map a network and determine potential targets. After identifying my target machine, I then used nmap -Pn to scan it.
