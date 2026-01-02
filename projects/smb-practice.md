@@ -83,6 +83,6 @@ I was able to download a text file (hello.txt) and view its contents on my local
 This exercise taught me how misconfigured SMB permissions or anonymous access can allow unauthorized file retrieval. 
 Overall, it reinforced the importance of proper enumeration, documenting findings, and understanding the potential risks of exposed SMB shares in real-world scenarios.
 
-# 🔐 Ethical Note
-## All testing in this write‑up was performed legally in my own controlled lab environment for learning purposes only. No unauthorized systems were accessed.
-## This test was performed in a controlled lab environment. Enumeration was only done on systems I have permission to test.
+## 🔐 Ethical Note
+All testing in this write‑up was performed legally in my own controlled lab environment for learning purposes only. No unauthorized systems were accessed.
+This test was performed in a controlled lab environment. Enumeration was only done on systems I have permission to test.
