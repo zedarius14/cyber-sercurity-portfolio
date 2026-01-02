@@ -24,8 +24,7 @@ To practice basic network scanning and understand how attackers identify open po
 
 ## 📷 Evidence / Screenshots
 
-![projects](Screenshot 2026-01-02 230250.png)
-![projects](Screenshot 2026-01-02 231331.png)
+![scan]("Screenshot 2026-01-02 230250.png")
 
 
 ---
