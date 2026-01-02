@@ -19,9 +19,6 @@ To practice basic network scanning and understand how attackers identify open po
 2️⃣ Run scan  
 3️⃣ Analyze results  
 
-- Identify Target
-- Checked open ports
-- Identified services
 
 ---
 
