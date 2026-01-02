@@ -1,9 +1,9 @@
-# 🧾 SMB Enumeration 
-## 🎯 Objective
+#  SMB Enumeration 
+##  Objective
 
 The goal of this lab is to practice SMB (Server Message Block) enumeration on a Windows target to identify shared resources, possible misconfigurations, and information leakage.
 
-## 🖥️ Target Information
+##  Target Information
 
 Target Type: Windows Machine
 
@@ -17,14 +17,14 @@ Ports Identified:
 
 These ports indicate that Windows file sharing services are enabled, making SMB enumeration an important next step.
 
-## 🔎 Tools Used
+##  Tools Used
 
 nmap
 
 smbclient
 
 
-## 🧪 Enumeration Steps
+##  Enumeration Steps
 
 1️⃣ Initial SMB Service Discovery
 
@@ -34,7 +34,7 @@ nmap -sC -sV 192.168.100.127
 
 
  This helped identify running SMB services and versions.
-📸 ![Result](images/scan3.png)
+ ![Result](images/scan3.png)
 
 2️⃣ Listing Available SMB Shares
 
@@ -44,7 +44,7 @@ smbclient -L 192.168.100.127 -N
 
 
 This checks if the system allows guest access without credentials.
-📸 ![Result](images/smb-client1.png)
+ ![Result](images/smb-client1.png)
 
 If any readable shares appeared, I attempted to access them:
 
@@ -56,7 +56,7 @@ This is the Hello.txt
 
 ![HelloTXT](images/hellotxt.png)
 
-# ✅ Findings
+#  Findings
 
 SMB Enumeration Findings
 
@@ -75,7 +75,7 @@ Viewed the contents of the file on my machine using cat
 This confirms SMB misconfiguration because files can be accessed and downloaded without credentials, which could expose sensitive information
 
 
-## 📚 What I Learned
+##  What I Learned
 
 During this SMB enumeration exercise, I learned how to identify and interact with Windows file sharing services. By discovering open SMB ports (135, 139, 445), 
 I understood the role of these services in a network environment. Using smbclient, I connected to the SMB share and explored available files. 
@@ -83,6 +83,6 @@ I was able to download a text file (hello.txt) and view its contents on my local
 This exercise taught me how misconfigured SMB permissions or anonymous access can allow unauthorized file retrieval. 
 Overall, it reinforced the importance of proper enumeration, documenting findings, and understanding the potential risks of exposed SMB shares in real-world scenarios.
 
-## 🔐 Ethical Note
+##  Ethical Note
 All testing in this write‑up was performed legally in my own controlled lab environment for learning purposes only. No unauthorized systems were accessed.
 This test was performed in a controlled lab environment. Enumeration was only done on systems I have permission to test.
