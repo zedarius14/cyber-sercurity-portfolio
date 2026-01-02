@@ -24,7 +24,8 @@ To practice basic network scanning and understand how attackers identify open po
 
 ## 📷 Evidence / Screenshots
 
-![scan]("Screenshot 2026-01-02 230250.png")
+![Nmap Scan Result](images/scan1.png)
+![Nmap Scan Result](images/scan2.png)
 
 
 ---
