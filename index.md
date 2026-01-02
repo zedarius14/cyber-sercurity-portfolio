@@ -50,8 +50,18 @@ These are beginner-friendly practice activities I am working on while learning c
 - 🛡️ Introduction to Web Security Labs (e.g., Juice Shop)
 - 🐧 Linux Security & Permissions Exploration
 
-👉 View detailed writeups here:
-https://github.com/zedarius14/cybersecurity-portfolio/tree/main/projects
+
+## Projects
+
+### 1. Basic Nmap Scan
+- Objective: Practice network scanning and port enumeration.
+- Skills demonstrated: Nmap scanning, port analysis, screenshot documentation.
+- [View Project](projects/basic-nmap-scan.md)
+
+### 2. SMB Enumeration
+- Objective: Explore Windows SMB shares and understand access permissions.
+- Skills demonstrated: SMB enumeration, file retrieval with smbclient, documentation of findings.
+- [View Project](projects/smb-enumeration.md)
 
 ---
 
