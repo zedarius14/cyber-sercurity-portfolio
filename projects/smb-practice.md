@@ -36,7 +36,7 @@ nmap -sC -sV 192.168.100.127
 
 
 This helped identify running SMB services and versions.
-📸 [Result](images/scan3.png)
+📸 ![Result](images/scan3.png)
 
 2️⃣ Listing Available SMB Shares
 
@@ -46,13 +46,13 @@ smbclient -L 192.168.100.127 -N
 
 
 This checks if the system allows guest access without credentials.
-📸 [Result](images/smb-client1)
+📸 ![Result](images/smb-client1)
 
 If any readable shares appeared, I attempted to access them:
 
 smbclient //TARGET_IP/SHARENAME -N
 
-[smbclient](images/smbclient-2.png)
+![smbclient](images/smbclient-2.png)
 
 
 ✅ Findings
