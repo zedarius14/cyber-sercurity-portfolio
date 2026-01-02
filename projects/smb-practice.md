@@ -46,11 +46,11 @@ smbclient -L 192.168.100.127 -N
 
 
 This checks if the system allows guest access without credentials.
-📸 ![Result](images/smb-client1)
+📸 ![Result](images/smb-client1.png)
 
 If any readable shares appeared, I attempted to access them:
 
-smbclient //TARGET_IP/SHARENAME -N
+smbclient //192.168.100.127/smb -N
 
 ![smbclient](images/smbclient-2.png)
 
