@@ -56,12 +56,12 @@ These are beginner-friendly practice activities I am working on while learning c
 ### 1. Basic Nmap Scan
 - Objective: Practice network scanning and port enumeration.
 - Skills demonstrated: Nmap scanning, port analysis, screenshot documentation.
-- [View Project](projects/basic-nmap-scan.md)
+- [View Project](projects/nmap-basic-scan.md)
 
 ### 2. SMB Enumeration
 - Objective: Explore Windows SMB shares and understand access permissions.
 - Skills demonstrated: SMB enumeration, file retrieval with smbclient, documentation of findings.
-- [View Project](projects/smb-enumeration.md)
+- [View Project](projects/smb-pracite.md)
 
 ---
 
