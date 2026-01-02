@@ -23,9 +23,6 @@ nmap
 
 smbclient
 
-enum4linux
-
-(optional) smbmap
 
 🧪 Enumeration Steps
 1️⃣ Initial SMB Service Discovery
