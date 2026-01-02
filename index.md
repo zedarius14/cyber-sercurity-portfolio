@@ -61,7 +61,7 @@ These are beginner-friendly practice activities I am working on while learning c
 ### 2. SMB Enumeration
 - Objective: Explore Windows SMB shares and understand access permissions.
 - Skills demonstrated: SMB enumeration, file retrieval with smbclient, documentation of findings.
-- [View Project](projects/smb-pracite.md)
+- [View Project](projects/smb-practice.md)
 
 ---
 
