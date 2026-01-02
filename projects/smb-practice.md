@@ -52,8 +52,11 @@ If any readable shares appeared, I attempted to access them:
 
 smbclient //192.168.100.127/smb -N
 
-![Result](images/smb-client-2.png)
+![Result](images/smb-client2.png)
 
+This is the Hello.txt 
+
+![HelloTXT](images/hellotxt.png)
 
 ✅ Findings
 
