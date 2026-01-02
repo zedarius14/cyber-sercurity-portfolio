@@ -68,9 +68,6 @@ These are beginner-friendly practice activities I am working on while learning c
 ## 📝 Reports & Documentation Practice
 I am also learning how to communicate security findings clearly, which is important for pentesting roles.
 
-📎 Reports and Notes:
-https://github.com/zedarius14/cybersecurity-portfolio/tree/main/reports
-
 Includes:
 - Beginner learning reports
 - Lab documentation
@@ -96,7 +93,6 @@ https://tryhackme.com/p/sweetpotatoZZ
 
 ## 🧭 Learning Roadmap
 📌 Roadmap:
-https://github.com/zedarius14/cybersecurity-portfolio/tree/main/learning-progress
 
 Current Focus:
 - Linux
@@ -119,3 +115,4 @@ I follow ethical hacking principles and do not participate in any unauthorized t
 ## 📬 Contact
 - 📧 Email: ptc.jericolimbo@gmail.com
 - 🌍 Location: 61 Pres Quirino Ext. South Signal, Taguig NCR
+- 📱 +639677649079
