@@ -52,7 +52,7 @@ If any readable shares appeared, I attempted to access them:
 
 smbclient //192.168.100.127/smb -N
 
-![smbclient](images/smbclient-2.png)
+![Result](images/smb-client-2.png)
 
 
 ✅ Findings
